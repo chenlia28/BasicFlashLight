@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\libs\Baidu_MobAds_SDK_3.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5cbd153d3ad1b110360d9d5866d30aaacda7ebc2">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_MobAds_SDK_3.2_95fb569c98576f1a997fb3ff2bb8fcd4a9d6fd67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24ee91dbbd93e3e0bd07359a02f0e095abc09ed9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f948a50214fc334cd435a2cbc7e07df6d9d39ca0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7939fa81fea74fc66940b52d75599ae2054b4b8a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f8e780fbff92e1da8d57dbe59314494dcb27650e\classes.dex" />
+    </item>
+
+</items>
