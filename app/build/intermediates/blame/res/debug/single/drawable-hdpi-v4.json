@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shou_off.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\src\\main\\res\\drawable-hdpi\\shou_off.png"
+        "merged": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg1.png",
+        "source": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/src/main/res/drawable-hdpi/bg1.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shou_on.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\src\\main\\res\\drawable-hdpi\\shou_on.png"
+        "merged": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/src/main/res/drawable-hdpi/icon.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg1.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\src\\main\\res\\drawable-hdpi\\bg1.png"
+        "merged": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shou_off.png",
+        "source": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/src/main/res/drawable-hdpi/shou_off.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+        "merged": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shou_on.png",
+        "source": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/src/main/res/drawable-hdpi/shou_on.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\BasicFlashLight\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.png",
+        "source": "/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/src/main/res/drawable-hdpi/bg.png"
     }
 ]

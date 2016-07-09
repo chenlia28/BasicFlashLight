@@ -2,25 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\libs\Baidu_MobAds_SDK_3.2.jar"
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="5cbd153d3ad1b110360d9d5866d30aaacda7ebc2">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_MobAds_SDK_3.2_95fb569c98576f1a997fb3ff2bb8fcd4a9d6fd67\classes.dex" />
+        sha1="a396342663a62464eebb65737570bef9af694f44">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_70114497651b768b707921a33e11c7bee31647cf.jar" />
     </item>
     <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="24ee91dbbd93e3e0bd07359a02f0e095abc09ed9">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f948a50214fc334cd435a2cbc7e07df6d9d39ca0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="7939fa81fea74fc66940b52d75599ae2054b4b8a">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f8e780fbff92e1da8d57dbe59314494dcb27650e\classes.dex" />
+        sha1="c08af520e25106828d0a7596f971df224fb70132">
+        <dex dex="/Users/chenlia28/Desktop/Workspace/AndroidStudioProjects/BasicFlashLight/app/build/intermediates/pre-dexed/debug/instant-run_520caf3c6b85413bb609f64de6bb894695a7c765.jar" />
     </item>
 
 </items>

@@ -19,5 +19,4 @@ android {
 }
 
 dependencies {
-    compile files('libs/Baidu_MobAds_SDK_3.2.jar')
 }

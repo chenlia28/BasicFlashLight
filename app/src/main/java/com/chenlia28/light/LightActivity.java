@@ -7,14 +7,11 @@ import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.baidu.mobads.AdSize;
-import com.baidu.mobads.AdView;
 
 public class LightActivity extends Activity {
 	private Button lightBtn = null;
@@ -24,12 +21,12 @@ public class LightActivity extends Activity {
 	// public static boolean action = false;
 	// //定义的状态，状态为false，当前界面不退出，状态为true，当前界面退出
 	private int back = 0;// 判断按几次back
-	AdView adView = null;
+//	AdView adView = null;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		adView = new AdView(this, AdSize.Banner,"2599460");
+//		adView = new AdView(this, AdSize.Banner,"2599460");
 		// 全屏设置，隐藏窗口所有装饰
 		getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
 				WindowManager.LayoutParams.FLAG_FULLSCREEN);
@@ -42,7 +39,7 @@ public class LightActivity extends Activity {
 
 		lightBtn = (Button) findViewById(R.id.btn_light);
 		lightBtn.setOnClickListener(new Mybutton());
-		addContentView(adView, new ViewGroup.LayoutParams(-1, -2));
+//		addContentView(adView, new ViewGroup.LayoutParams(-1, -2));
 		// ============启动startapp=======================
 		// AndroidSDKProvider.initSDK(this);
 		// 初始化imadpush广告平台
