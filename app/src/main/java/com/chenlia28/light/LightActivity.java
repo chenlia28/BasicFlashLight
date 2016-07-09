@@ -12,6 +12,8 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 
 public class LightActivity extends Activity {
 	private Button lightBtn = null;
@@ -28,6 +30,11 @@ public class LightActivity extends Activity {
 		super.onCreate(savedInstanceState);
 //		adView = new AdView(this, AdSize.Banner,"2599460");
 		// 全屏设置，隐藏窗口所有装饰
+
+		AdView mAdView = (AdView) findViewById(R.id.adView);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
+
 		getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
 				WindowManager.LayoutParams.FLAG_FULLSCREEN);
 		requestWindowFeature(Window.FEATURE_NO_TITLE); // 设置屏幕显示无标题，必须启动就要设置好，否则不能再次被设置

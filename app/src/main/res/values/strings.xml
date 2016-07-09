@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">免费手电筒</string>
     <string name="again_exit">Press again to exit !</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
