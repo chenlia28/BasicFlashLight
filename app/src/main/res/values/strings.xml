@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">免费手电筒</string>
+    <string name="app_name">FlashLight</string>
     <string name="again_exit">Press again to exit !</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-4105226926627645/9201346610</string>-->
+    <!--For test-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
 </resources>

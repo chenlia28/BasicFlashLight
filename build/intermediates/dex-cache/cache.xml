@@ -2,25 +2,396 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\libs\Baidu_MobAds_SDK_3.2.jar"
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="5cbd153d3ad1b110360d9d5866d30aaacda7ebc2">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_MobAds_SDK_3.2_95fb569c98576f1a997fb3ff2bb8fcd4a9d6fd67\classes.dex" />
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_ed0d66a1b05d0e42ae79c22a4fbe1fab46b3a2c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_318c720a06d29a21c58800ae56863b1a6e5a3ca4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_f7f5320d036f5b31eab718f0db2a4858369a61c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_9aba9eee769268554b3a742be3e45c223df4cef2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_86e4d72514eea43ac6122b15fafd773fb2180609\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_9568a065f5ef1a260b8092500641c09aa28d3093\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_dd7a8ba30bbd4e1e936637cf1bbbbe658b945f45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_97fcacc0208ab764a26f82a4baf9213ae30ffa76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_f19722e5c7fbeb8d929fd8e2cd01f566797310a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_54fa42baec73144f246b1347ec98fe7442faba4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_875e1ac5011217d74d7421873592e74718430e04\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_50ff562342bb990ff0a16bffc04fd22615266b71\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_985fadfd9915f8612683bed7e45cb473e6e3697b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_4d0b79d166ca88e882087853541cc9331f024363\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_7b3f75587eedd72e93df4e4910d7440810da8ec7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_38ff64f0c5bb96a002ab085a96ff61a5543c5524\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_707d17207a46ffe121b4f9d9c83b309fcf4e65b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_700e4e8f2f50cce0c04c0126b247dbd4d4fd4cad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_5c6db7e866655eac492ec0eb6daaca37322707c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_bedcbc687223e92faae12b28d2a5a4e3a43b607f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_1d23babd1118804b0781e456294a8fb133dc28c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_7b4a444a061ea67efa636aed70bc5b62d39d3a70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_ce56bf07c45c4f838cb01c4ca484fed324c04d4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_667202840c6e00afacb3c365bceb9e29d938a88c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_12f174999c21cbc86d6afef07b3e5e12dabb4422\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_d5bdbef99fad9bb6cde41387a7c04c45f731a5fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_844465cb7c96b17e8337c0c0a25dbc96215e8697\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_2419eed79d31e71d8658b2544c01f912e50be2c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_38aad7a78bd80e244ccae1ecae9441762cf72e35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_c140fa3b0be749b2dffb494bb9f5557a133b14da\classes.dex" />
     </item>
     <item
         jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="24ee91dbbd93e3e0bd07359a02f0e095abc09ed9">
+        sha1="2e6fbc42e52e27b88e494312bcfc2a28955366c3">
         <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f948a50214fc334cd435a2cbc7e07df6d9d39ca0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_382d35134115d74f8961f98417fe3276f597d335\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_9f332c63605eeef9d0ee4b8f37075f2706c292f7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_6c7ed63065c7a513d9e1ccc914a0a9b85ee61c29\classes.dex" />
     </item>
     <item
         jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="7939fa81fea74fc66940b52d75599ae2054b4b8a">
+        sha1="6e309c8d6f6cc5aab968f1ce1709f8fc980fa088">
         <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f8e780fbff92e1da8d57dbe59314494dcb27650e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_16a3dff066e4d73d2de27393c0c90d53976379a6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_530e806609bcbfe6dd8dc2572f59a23d15d56e92\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_54b4717a5759df6b8751ae3632fb1766ac8a4fb7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_2c3b337f9266210a5f2164284e903985b1d1e2f1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_ff1b8f11411ba42135d2548785562c46b65eb3dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_86e0be4400550a02646f19edab9494b8141f8505\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_15e0f6bf174e70dcd5c7c61dbaab57f0764b26b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_52e224170e545f4bb2da5c6ff44b70d7c8858f49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_a76c6b47f5100efe06fc471b9137874cdce95d23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_b2463f0e320f5898fc28f9274b82420732fd3b6f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_de08361fd0e13e55dd0b15c3d07a1971bd07495a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_dc1c011becb389972ecfd3e8c145b03c86f22e1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_f975fb30866ea620c73cd4ed6ce7cfa5755741d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_be7439935d7713b4db09713f96b6c623e2180883\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_08b16856724fa3fb4e27eb337c3e2a21cf114629\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_7e777692940956679c17efa00fdde00f93d63279\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_a682baef8abf65eed361071c578e756fb564449b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_86b29c72cfc0673d8a2528b385677c3eae38d774\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_16ebd8ede7bcee34f3dce12bbfb11ef1cbb79501\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_61d6c45f707496d447154fcbb3ddc5e7efa1f8e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BasicFlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_e32229e569f3d8bc0941a475a63b2df678c66f08\classes.dex" />
     </item>
 
 </items>
