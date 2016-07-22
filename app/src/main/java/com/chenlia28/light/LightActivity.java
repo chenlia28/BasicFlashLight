@@ -9,7 +9,6 @@ import android.os.Process;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
-//import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
@@ -20,6 +19,8 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
+
+//import android.view.ViewGroup;
 
 //import com.baidu.mobads.AdSize;
 //import com.baidu.mobads.AdView;
@@ -156,21 +157,22 @@ public class LightActivity extends Activity {
 		super.onDestroy();
 	}
 
-	// @Override
-	// public boolean onCreateOptionsMenu(Menu menu) {
-	// menu.add(0, 2, 2, "ÍË³ö");
-	// return super.onCreateOptionsMenu(menu);
-	// }
-	//
-	// @Override
-	// public boolean onOptionsItemSelected(MenuItem item) {
-	// switch (item.getItemId()) {
-	// case 2:
-	// Myback();
-	// break;
-	// }
-	// return super.onOptionsItemSelected(item);
-	// }
+//	==== make menu disabl2
+//	 @Override
+//	 public boolean onCreateOptionsMenu(Menu menu) {
+//	 menu.add(0, 2, 2, "Exit");
+//	 return super.onCreateOptionsMenu(menu);
+//	 }
+//
+//	 @Override
+//	 public boolean onOptionsItemSelected(MenuItem item) {
+//	 switch (item.getItemId()) {
+//	 case 2:
+//	 Myback();
+//	 break;
+//	 }
+//	 return super.onOptionsItemSelected(item);
+//	 }
 
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
@@ -179,10 +181,15 @@ public class LightActivity extends Activity {
 			switch (back) {
 				case 1:
 					Toast.makeText(LightActivity.this,
-							getString(R.string.again_exit), Toast.LENGTH_SHORT)
+							getString(R.string.app_close), Toast.LENGTH_SHORT)
 							.show();
 					break;
 				case 2:
+					Toast.makeText(LightActivity.this,
+							getString(R.string.again_exit), Toast.LENGTH_SHORT)
+							.show();
+					break;
+				case 3:
 					back = 0;
 					Myback();
 					break;

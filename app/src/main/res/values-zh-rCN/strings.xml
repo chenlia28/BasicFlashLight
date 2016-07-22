@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">免费手电筒</string>
+    <string name="app_close">你确定要关闭手电筒?</string>
     <string name="again_exit">再次点击退出！</string>
 </resources>
